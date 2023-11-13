@@ -3,6 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="gif" width="400" src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif">
 
+</br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityamaurya790&label=Profile%20views&color=0e75b6&style=flat" alt="adityamaurya790" /> </p>
 
 - 🌱 I’m currently learning **Java script, Bootstrap, Android, React**
@@ -25,9 +26,10 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/891/677/png-transparent-python-logos-and-brands-line-filled-icon.png" alt="python" width="40" height="40"/> </a> &nbsp&nbsp
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityamaurya790&show_icons=true&locale=en&layout=compact" alt="adityamaurya790" /></p>
+</br> </br>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=adityamaurya790&show_icons=true&locale=en&layout=compact" alt="adityamaurya790" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityamaurya790&show_icons=true&locale=en" alt="adityamaurya790" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api?username=adityamaurya790&show_icons=true&locale=en" alt="adityamaurya790" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityamaurya790&" alt="adityamaurya790" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=adityamaurya790&" alt="adityamaurya790" /></p>
 
