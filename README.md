@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java script, Bootstrap, React**
 
-- 💬 Ask me about **HTML, CSS, Java Script, Bootstrap, Android, React, MySql**
+- 💬 Ask me about **HTML, CSS, Java Script, Bootstrap, React, MySql**
 
 - 📫 How to reach me **adityamaurya790@gmail.com**
 
