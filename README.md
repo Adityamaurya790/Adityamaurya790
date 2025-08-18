@@ -6,7 +6,7 @@
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityamaurya790&label=Profile%20views&color=0e75b6&style=flat" alt="adityamaurya790" /> </p>
 
-- 🌱 I’m currently learning **Java script, Bootstrap, React**
+- 🌱 I’m currently learning **Data Science[Python, matplotlib, seaborn, pandas, numpy]**
 - 💬 Ask me about **HTML, CSS, Java Script, Bootstrap, React, MySql**
 - 📫 How to reach me **adityamaurya790@gmail.com**
 
