@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Aditya Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="gif" width="400" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif"  >
+<img align="right" alt="gif" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"  >
 
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityamaurya790&label=Profile%20views&color=0e75b6&style=flat" alt="adityamaurya790" /> </p>
