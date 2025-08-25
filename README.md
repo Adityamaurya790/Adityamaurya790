@@ -16,8 +16,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-<a  href="https://angular.io" target="_blank" rel="noreferrer" > 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpkv7cfsSQBoIjiH-mOcRp-Gr0JDtGJ-1vx-5ys-I&s" alt="angularjs" width="40" height="40" /> </a> &nbsp &nbsp
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="text-decoration:none"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a>  &nbsp &nbsp
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="css3" width="40" height="40"/> </a> &nbsp &nbsp
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" alt="html5" width="40" height="40"/> </a> &nbsp &nbsp
